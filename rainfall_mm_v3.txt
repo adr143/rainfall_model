@@ -1,0 +1,9 @@
+1-HOur Validation Metrics:
+  RMSE: 0.5359
+  MAE: 0.1514
+  R²: 0.6733
+
+1-HOur Test Metrics:
+  RMSE: 0.6391
+  MAE: 0.1606
+  R²: 0.6443
